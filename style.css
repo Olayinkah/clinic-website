@@ -1,0 +1,136 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+a:link{
+	text-decoration: none;
+	color: #fff;
+}
+a:active{
+	text-decoration: none;
+	color: #fff;
+}
+a:hover{
+	text-decoration: none;
+	color: orange;
+}
+a:visited{
+	text-decoration: none;
+}
+#hole{
+	position: relative;
+	height: 900px;
+	width:100%;
+	background: #ccc;
+}
+#header{
+	position: absolute;
+	width: 80%;
+	height: 150px;
+	background: #fff;
+	border-radius: 2px;
+	margin-left: 140px;
+}
+#sub{
+	position: absolute;
+	width: 80%;
+	height: 40px;
+	top: 152px;
+	background: yellow;
+	margin-left: 140px;
+	border-radius: 5px;
+	text-align: center;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bolder;
+	font-family: times new roman;
+	padding-top: 5px;
+}
+#act{
+	position: absolute;
+	width: 60%;
+	height: 600px;
+	background: #fff;
+	border-radius: 5px;
+	top: 199px;
+	margin-left: 140px;
+}
+#left_side{
+	position: absolute;
+	width: 19.5%;
+	height: 300px;
+	border-radius: 5px;
+	background: #fff;
+	top: 199px;
+	left: 65%;
+	right: 0px;
+	margin-left: 80px;
+}
+#left_side1{
+	position: absolute;
+	width: 19.5%;
+	height: 295px;
+	border-radius: 5px;
+	background: #fff;
+	top: 505px;
+	left: 65%;
+	right: 0px;
+	margin-left: 80px;
+}
+#footer{
+	position: absolute;
+	height: 30px;
+	width: 100%;
+	top: 800px;
+	background: #000;
+	border-radius: 0px;
+	text-align: center;
+	color: #fff;
+	font-size: 18px;
+	padding-top: 5px;
+}
+#reg{
+	position: absolute;
+	width: 80%;
+	height: 600px;
+	background: #fff;
+	border-radius: 5px;
+	top: 199px;
+	margin-left: 140px;
+}
+fieldset{
+	border-radius: 7px;
+	border-width: 5px;
+	width: 70%;
+	text-align: center;
+	border-color: green;
+}
+legend{
+	font-weight: bold;
+	font-size: 18px;
+}
+label{
+	font-size: 16px;
+	font-weight: bold;
+}
+#image{
+	position: absolute;
+	top: 835px;
+	height: 30px;
+	width: 80%;
+	margin-left: 140px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+	font-style: italic;
+}
+
+#about{
+	position: absolute;
+	width: 80%;
+	height: 1000px;
+	background: #fff;
+	top: 199px;
+	margin-left: 140px;
+}
+       
