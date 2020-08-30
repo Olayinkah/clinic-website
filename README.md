@@ -1,2 +1,2 @@
 # clinic-website
- its about clinic stuffs
+ A personnal exercise to build a clinic wesite(still learning)
